@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.project2.project2.Controllers.ChatUIController">
+	<TextArea fx:id="chatArea" editable="false" layoutX="13.0" layoutY="39.0" prefHeight="290.0" prefWidth="574.0" wrapText="true" />
+	<Button fx:id="sendButton" alignment="CENTER" contentDisplay="CENTER" layoutX="515.0" layoutY="349.0" mnemonicParsing="false" onAction="#handleSendAction" prefHeight="28.0" prefWidth="64.0" text="Send ">
+		<font>
+			<Font name="Arial Rounded MT Bold" size="15.0" />
+		</font>
+	</Button>
+	<TextField fx:id="messageField" layoutX="13.0" layoutY="346.0" prefHeight="34.0" prefWidth="473.0" promptText="Message area." />
+	<Label layoutX="14.0" layoutY="14.0" prefHeight="17.0" prefWidth="80.0" text="Logged in as:" />
+	<Label fx:id="userId" layoutX="87.0" layoutY="14.0" prefHeight="17.0" prefWidth="184.0" text="ID" />
+
+
+</AnchorPane>

@@ -1,0 +1,72 @@
+[2025-01-17T22:54:46.014699500] TestUser: Test message
+[2025-01-17T22:54:46.017698800] HTTP/1.1 400 Bad Request
+[2025-01-17T22:54:46.018699600] Connection: close
+[2025-01-17T22:54:46.018699600] 
+[2025-01-17T22:54:46.019699900] Se ha cerrado la conexión con el servidor.
+[2025-01-17T23:00:51.789269800] TestUser: Test message
+[2025-01-17T23:00:51.791270100] HTTP/1.1 400 Bad Request
+[2025-01-17T23:00:51.792270] Connection: close
+[2025-01-17T23:00:51.792270] 
+[2025-01-17T23:00:51.793271100] Se ha cerrado la conexión con el servidor.
+[2025-01-17T23:02:27.926838800] HTTP/1.1 408 Request Timeout
+[2025-01-17T23:02:27.927838800] Connection: close
+[2025-01-17T23:02:27.927838800] 
+[2025-01-17T23:02:27.928839300] Se ha cerrado la conexión con el servidor.
+[2025-01-17T23:08:56.831458100] Bienvenido al chat. Introduce tu nombre de usuario:
+[2025-01-17T23:09:03.156783200] >> TestUser: Test message se ha unido al chat.
+[2025-01-17T23:09:03.156783200] TestUser: Test message
+[2025-01-17T23:09:03.157782800] >> TestUser: Test message se ha unido al chat.
+[2025-01-17T23:09:16.239702] Bienvenido al chat. Introduce tu nombre de usuario:
+[2025-01-17T23:09:27.219259800] >> TestUser1: UserTestFailed se ha unido al chat.
+[2025-01-17T23:09:27.219259800] TestUser1: UserTestFailed
+[2025-01-17T23:09:27.220260100] >> TestUser1: UserTestFailed se ha unido al chat.
+[2025-01-17T23:09:27.220260100] >> TestUser1: UserTestFailed se ha unido al chat.
+[2025-01-17T23:09:34.313826] TestUser1: UserTestFailed: TestUser1: sasasa
+[2025-01-17T23:09:34.313826] TestUser1: sasasa
+[2025-01-17T23:09:34.315822300] TestUser1: UserTestFailed: TestUser1: sasasa
+[2025-01-17T23:09:34.316823100] TestUser1: UserTestFailed: TestUser1: sasasa
+[2025-01-17T23:09:41.928956200] TestUser: Test message: TestUser: dsdada
+[2025-01-17T23:09:41.929950600] TestUser: dsdada
+[2025-01-17T23:09:41.930949500] TestUser: Test message: TestUser: dsdada
+[2025-01-17T23:09:41.930949500] TestUser: Test message: TestUser: dsdada
+[2025-01-17T23:12:58.080578600] >> null se ha unido al chat.
+[2025-01-17T23:12:58.159583100] Bienvenido al chat.
+[2025-01-17T23:12:58.161583300] >> null se ha unido al chat.
+[2025-01-17T23:13:09.041142200] null: TestUser1: ops?
+
+[2025-01-17T23:13:09.042141] TestUser1: ops?
+[2025-01-17T23:13:09.043141500] null: TestUser1: ops?
+[2025-01-17T23:13:09.044141400] 
+[2025-01-17T23:14:08.717793500] >> null se ha unido al chat.
+[2025-01-17T23:14:08.753794400] Bienvenido al chat.
+[2025-01-17T23:14:08.754795900] >> null se ha unido al chat.
+[2025-01-17T23:14:08.755794500] >> null se ha unido al chat.
+[2025-01-17T23:14:15.455655300] null: TestUser: this is not great
+
+[2025-01-17T23:14:15.456653700] TestUser: this is not great
+[2025-01-17T23:14:15.456653700] null: TestUser: this is not great
+[2025-01-17T23:14:15.457655400] null: TestUser: this is not great
+[2025-01-17T23:14:15.457655400] 
+[2025-01-17T23:14:15.458654900] 
+[2025-01-17T23:14:24.565877300] null: TestUser: dd
+
+[2025-01-17T23:14:24.566878600] TestUser: dd
+[2025-01-17T23:14:24.567880200] null: TestUser: dd
+[2025-01-17T23:14:24.567880200] null: TestUser: dd
+[2025-01-17T23:14:24.568877400] 
+[2025-01-17T23:14:24.568877400] 
+[2025-01-17T23:14:28.086757800] null: TestUser: dd
+
+[2025-01-17T23:14:28.086757800] TestUser: dd
+[2025-01-17T23:14:28.087759300] null: TestUser: dd
+[2025-01-17T23:14:28.087759300] null: TestUser: dd
+[2025-01-17T23:14:28.088759200] 
+[2025-01-17T23:14:28.088759200] 
+[2025-01-17T23:15:17.948623900] null: TestUser1: fff
+
+[2025-01-17T23:15:17.949623500] TestUser1: fff
+[2025-01-17T23:15:17.950620800] null: TestUser1: fff
+[2025-01-17T23:15:17.950620800] 
+[2025-01-17T23:15:17.950620800] null: TestUser1: fff
+[2025-01-17T23:15:17.951621] 
+[2025-01-17T23:28:20.401729900] >> null se ha unido al chat.[2025-01-17T23:28:20.481732] >> null se ha unido al chat.[2025-01-17T23:28:27.892711400] >> null se ha unido al chat.[2025-01-17T23:28:27.930715900] >> null se ha unido al chat.[2025-01-17T23:28:27.930715900] >> null se ha unido al chat.[2025-01-17T23:28:39.818489] null: TestUser: test[2025-01-17T23:28:39.819489100] TestUser: test[2025-01-17T23:28:39.820488400] null: TestUser: test[2025-01-17T23:28:39.820488400] null: TestUser: test[2025-01-17T23:28:45.487582700] null: TestUser: test[2025-01-17T23:28:45.488597700] TestUser: test[2025-01-17T23:28:45.488597700] null: TestUser: test[2025-01-17T23:28:45.489584500] null: TestUser: test[2025-01-17T23:28:53.331027200] null: TestUser: lotta test[2025-01-17T23:28:53.332046200] TestUser: lotta test[2025-01-17T23:28:53.333040700] null: TestUser: lotta test[2025-01-17T23:28:53.333040700] null: TestUser: lotta test[2025-01-17T23:32:32.177681200] >> null se ha unido al chat.[2025-01-17T23:32:32.262682300] >> null se ha unido al chat.[2025-01-17T23:32:35.788955500] >> null se ha unido al chat.[2025-01-17T23:32:35.821955300] >> null se ha unido al chat.[2025-01-17T23:32:35.823955400] >> null se ha unido al chat.[2025-01-17T23:32:39.680838900] null: TestUser: 12[2025-01-17T23:32:39.680838900] TestUser: 12[2025-01-17T23:32:39.681838900] null: TestUser: 12[2025-01-17T23:32:39.681838900] null: TestUser: 12[2025-01-17T23:32:41.458946200] null: TestUser1: 122[2025-01-17T23:32:41.458946200] TestUser1: 122[2025-01-17T23:32:41.459946700] null: TestUser1: 122[2025-01-17T23:32:41.459946700] null: TestUser1: 122[2025-01-17T23:32:45.182364] null: TestUser1: 1312[2025-01-17T23:32:45.182364] TestUser1: 1312[2025-01-17T23:32:45.183368300] null: TestUser1: 1312[2025-01-17T23:32:45.183368300] null: TestUser1: 1312[2025-01-17T23:32:47.300785600] null: TestUser: 1314[2025-01-17T23:32:47.301787500] TestUser: 1314[2025-01-17T23:32:47.301787500] null: TestUser: 1314[2025-01-17T23:32:47.301787500] null: TestUser: 1314[2025-01-17T23:35:23.570169800] >> null se ha unido al chat.[2025-01-17T23:35:23.647167500] >> null se ha unido al chat.[2025-01-17T23:35:26.303790300] >> null se ha unido al chat.[2025-01-17T23:35:26.338789800] >> null se ha unido al chat.[2025-01-17T23:35:26.340788800] >> null se ha unido al chat.[2025-01-17T23:39:40.963949900] >> TestUser1 se ha unido al chat.[2025-01-17T23:39:40.978953500] >> TestUser1 se ha unido al chat.[2025-01-17T23:39:43.580776100] TestUser1: TestUser1: rasa[2025-01-17T23:39:43.580776100] TestUser1: rasa[2025-01-17T23:39:43.581778900] TestUser1: TestUser1: rasa[2025-01-17T23:39:51.073240800] >> TestUser se ha unido al chat.[2025-01-17T23:39:51.080239] >> TestUser se ha unido al chat.[2025-01-17T23:39:51.083239900] >> TestUser se ha unido al chat.[2025-01-17T23:39:54.952096400] TestUser: TestUser: Rasaaaa[2025-01-17T23:39:54.952096400] TestUser: Rasaaaa[2025-01-17T23:39:54.953096500] TestUser: TestUser: Rasaaaa[2025-01-17T23:39:54.953096500] TestUser: TestUser: Rasaaaa[2025-01-17T23:39:56.893856900] TestUser: TestUser: saaaaa[2025-01-17T23:39:56.894846] TestUser: saaaaa[2025-01-17T23:39:56.894846] TestUser: TestUser: saaaaa[2025-01-17T23:39:56.895845300] TestUser: TestUser: saaaaa[2025-01-17T23:39:59.909985300] TestUser: TestUser: omg[2025-01-17T23:39:59.909985300] TestUser: omg[2025-01-17T23:39:59.910990400] TestUser: TestUser: omg[2025-01-17T23:39:59.910990400] TestUser: TestUser: omg[2025-01-17T23:40:57.408308900] >> TestUser1 se ha unido al chat.[2025-01-17T23:40:57.425307400] >> TestUser1 se ha unido al chat.[2025-01-17T23:41:04.421599400] TestUser1: wasaaa[2025-01-17T23:41:04.422599500] wasaaa[2025-01-17T23:41:04.422599500] TestUser1: wasaaa[2025-01-17T23:41:07.572176200] >> TestUser se ha unido al chat.[2025-01-17T23:41:07.578179] >> TestUser se ha unido al chat.[2025-01-17T23:41:07.580179800] >> TestUser se ha unido al chat.[2025-01-17T23:41:10.168476200] TestUser: wasaaaa[2025-01-17T23:41:10.168476200] wasaaaa[2025-01-17T23:41:10.169477600] TestUser: wasaaaa[2025-01-17T23:41:10.170478800] TestUser: wasaaaa[2025-01-17T23:41:14.950996200] << TestUser ha salido del chat.[2025-01-17T23:41:14.960995500] << TestUser ha salido del chat.[2025-01-17T23:41:14.961995900] Se ha cerrado la conexión con el servidor.[2025-01-17T23:41:15.938746] << TestUser1 ha salido del chat.[2025-01-17T23:41:15.950733] Se ha cerrado la conexión con el servidor.[2025-01-17T23:45:01.970369100] >> TestUser1 se ha unido al chat.[2025-01-17T23:45:01.986371600] >> TestUser1 se ha unido al chat.[2025-01-17T23:45:04.760486100] >> TestUser se ha unido al chat.[2025-01-17T23:45:04.769488] >> TestUser se ha unido al chat.[2025-01-17T23:45:04.771483800] >> TestUser se ha unido al chat.[2025-01-17T23:45:11.456145100] testi ng[2025-01-17T23:45:11.456145100] TestUser: testi ng[2025-01-17T23:45:11.457144800] TestUser: testi ng[2025-01-17T23:45:11.457144800] TestUser: testi ng[2025-01-17T23:45:13.253799800] TestUser1: dsdsd[2025-01-17T23:45:13.254803800] dsdsd[2025-01-17T23:45:13.254803800] TestUser1: dsdsd[2025-01-17T23:45:13.255798300] TestUser1: dsdsd[2025-01-17T23:45:14.696892300] << TestUser1 ha salido del chat.[2025-01-17T23:45:14.705892] << TestUser1 ha salido del chat.[2025-01-17T23:45:14.706891100] Se ha cerrado la conexión con el servidor.[2025-01-17T23:45:17.714280400] << TestUser ha salido del chat.[2025-01-17T23:45:17.723284200] Se ha cerrado la conexión con el servidor.
